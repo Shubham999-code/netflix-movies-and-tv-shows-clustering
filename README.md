@@ -82,16 +82,27 @@ United States and United Kingdom are closely alighned with their netflix target 
 Movie release is not biased with respect to days or months, and no other relationship or trends can be observed from the pairplots.
 # Conclusion of EDA :-
 1.Netflix have ~70% of movies and 30% of TV_shows in 2019.
+
 2.Comedy is most popular genre in Netflix, across all content.
+
 3.Netflix focuses to add new content majorly towards end of current year and start of new year.
+
 4.A sudden drop was obserbed after 2020 in count of new content, Which is because of covid pandemic.
+
 5.India is on 2nd place as compared to content availability, maximum content is available for United states.
+
 6.There are almost ~30% of netflix original movies and ~50 % TV-shows.
+
 7. Content category and countries:
+
    a. Maximum adult content is from Spain.
+   
    b. Maximum teen content is from India.
+   
    c. Maximum older kids content is from Japan.
+   
    d. Maximum kids content is from Canada.
+   
 All of this insights will be neccesary for business development and SWOT analysis.
 
 Conclusion for clustering. We tried 5 models for ML i.e.
